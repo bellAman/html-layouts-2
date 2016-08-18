@@ -1,0 +1,19 @@
+.box {
+  width: 24vw;
+  height: 20vh;
+  display:inline-block;
+  margin: 3%;
+}
+.A {
+  background: #850c70;
+}
+.B {
+  background: #92b638;
+}
+.C {
+  background: #e28f26;
+}
+.text {
+  font-size: 2rem;
+  font-family: 'Indie Flower';
+}
